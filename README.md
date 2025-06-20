@@ -1,16 +1,50 @@
-# todo_list
+# 📝 Personal Tasks Manager App (Flutter)
 
-A new Flutter project.
+A simple yet powerful personal task manager built with **Flutter**. The app allows users to create, search, and manage their daily tasks with real-time filtering, swipe-to-delete, and persistent local storage using **SharedPreferences**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add, delete, and filter tasks in real-time
+- 🔍 Smart search with live filtering
+- 🗑️ Swipe-to-delete with undo action
+- 💾 Offline data persistence using SharedPreferences
+- 🌙 Minimal and clean user interface
+- ⚡ Fast and lightweight local state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Technologies Used
+
+- **Flutter** & **Dart**
+- **SharedPreferences** (local storage)
+- **Material Design UI**
+- **JSON serialization**
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots here if available)*
+
+---
+
+## 🧠 What I Learned
+
+- Implementing local data persistence in Flutter
+- Creating dynamic and reactive UIs
+- Managing state using setState and controller patterns
+- Using JSON for encoding and decoding structured data
+
+---
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/saadahmad358/personal-tasks-manager-app.git
+cd todo-app-flutter
+flutter pub get
+flutter run
